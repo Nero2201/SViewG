@@ -2,6 +2,16 @@
 
 SVG viewer with syntax-highlighted source view, bidirectional element selection, zoom/pan, and minimap.
 
+## Download
+
+Pre-built binaries are available on the [Releases](../../releases/latest) page.
+
+| Platform | File |
+|----------|------|
+| macOS | `SViewG-macOS.zip` → extract and open `SViewG.app` |
+| Windows | `SViewG-Windows.zip` → extract and run `SViewG.exe` |
+| Linux | `SViewG-Linux.tar.gz` → extract and run `./SViewG` |
+
 ## Features
 
 - Split view: syntax-highlighted SVG source ↔ interactive renderer
